@@ -1,0 +1,7 @@
+<resources>
+    <plurals name="movies_count">
+        <item quantity="zero">@string/no_movies_found</item>
+        <item quantity="one">@string/x_movie</item>
+        <item quantity="other">@string/x_movies</item>
+    </plurals>
+</resources>

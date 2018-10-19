@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort">Sort</string>
+    <string name="loading">Loading</string>
+    <string name="no_data">No data</string>
+    <string name="error">Error</string>
+    <string name="movie_name">Movie name</string>
+    <string name="rating">Rating</string>
+    <string name="no_movies_found">No Movies Found</string>
+    <string name="x_movie">%s Movie</string>
+    <string name="x_movies">%s Movies</string>
+    <string name="total_votes_display">Total Votes: %s</string>
+    <string name="average_vote_display">Rating: %s</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
